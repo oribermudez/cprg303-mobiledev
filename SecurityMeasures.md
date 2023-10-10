@@ -32,13 +32,13 @@ Striking the right balance between security and usability remains a persistent d
 
 ##### Rationale 💡
 
-Among the options considered for the decision record, Data Encryption, Multi-Factor Authentication (MFA), and Incident Response Plan stand out as the most crucial choices for our organization's security strategy.
+Among the options we've considered for our security strategy, three key choices stand out as exceptionally important:
 
-Data Encryption is important because it addresses the core concern of safeguarding sensitive user information and financial transactions. By encrypting data at rest and in transit, we ensure that even if unauthorized access occurs, the data remains unintelligible and protected [1]. This not only aligns with industry standards and best practices but also enhances our reputation and trustworthiness in the eyes of our users and regulatory bodies.
+Data Encryption is a fundamental pillar of our security approach. It involves converting sensitive user information and financial data into a coded format that is nearly impossible for unauthorized individuals to decipher [1]. This aligns with industry standards and best practices for every application.
 
-Multi-Factor Authentication is another essential choice due to its effectiveness to increase account security. MFA adds an additional layer of protection by requiring users to authenticate themselves through multiple factors such as something they know (password), something they have (smartphone), or something they are (biometrics) [2]. This greatly reduces the risk of unauthorized access, even in cases where passwords may be compromised. Given the sensitivity of financial transactions, MFA is instrumental in ensuring the integrity of user accounts and financial data.
+Multi-Factor Authentication is another important element. It adds a layer of security by requesting additional ways to verify the user account, such as passwords and biometrics [2]. This significantly reduces the risk of unauthorized access, even if passwords are compromised, which is vital given the sensitive nature of financial transactions.
 
-An Incident Response Plan is equally vital as it outlines a structured approach to handling security incidents when they do occur [3]. No security system is infallible, so having a well-defined plan in place allows us to respond swiftly and effectively to mitigate potential damages and minimize downtime. It demonstrates our commitment to proactive security and can help us recover from incidents with minimal disruption and damage to our operations and reputation. Furthermore, incident response planning is often a legal requirement, making it indispensable for compliance with industry regulations and data protection laws.
+Lastly, an Incident Response Plan is essential. It's a structured strategy for how we'll handle security incidents when they occur [3]. Since no security system is infallible, having a well-defined plan enables us to react swiftly and effectively to mitigate potential harm and minimize disruptions. This also demonstrates our commitment to proactive security and ensures compliance with legal requirements related to data protection.
 
 ***
 
