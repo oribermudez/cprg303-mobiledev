@@ -1,8 +1,11 @@
 # Decision Record for a transportation Mobile App
+
 ### By Ana Alarcon and Oriana Bermudez
 
 ## _Route Rider_ 🚛
-***
+
+---
+
 ## Push Notifications 🔔
 
 ### Context
@@ -18,7 +21,7 @@ This decision record addresses the intricate challenge of incorporating a push n
 ##### Options Considered 🔁
 
 - OneSignal
-- Google Firebase 
+- Google Firebase
 
 ##### Decision ⭐
 
@@ -26,14 +29,14 @@ This decision record addresses the intricate challenge of incorporating a push n
 
 ##### Rationale 💡
 
-After careful evaluation of both OneSignal and Firebase for our push notification needs, we have chosen OneSignal as the preferred solution. OneSignal stands out due to its specialized focus on push notification services and its robust feature set tailored for this purpose. OneSignal offers advanced personalization features, such as message customization for individual users and segmentation capabilities, which allow us to precisely target specific user groups [2]. This level of customization ensures that our push notifications are highly relevant, leading to increased user engagement and satisfaction. Additionally, OneSignal provides detailed analytics and reporting tools that offer valuable insights into the effectiveness of our notifications, helping us refine our communication strategy over time.
+After careful evaluation of both OneSignal and Firebase for our push notification needs, we have chosen OneSignal as the preferred solution. While Google Firebase is a robust platform offering a wide range of services, including push notifications, OneSignal stands out due to its specialized focus on push notification services and its robust feature set tailored for this purpose. OneSignal offers advanced personalization features, such as message customization for individual users and segmentation capabilities, which allow us to precisely target specific user groups [2]. This level of customization ensures that our push notifications are highly relevant, leading to increased user engagement and satisfaction. Additionally, OneSignal offers comprehensive analytics and reporting tools, providing valuable insights into the effectiveness of our notifications and aiding in refining our communication strategy over time, a capability that was a stronger emphasis in OneSignal compared to Firebase.
 
 Another compelling factor in favor of OneSignal is its platform compatibility. OneSignal supports both iOS and Android platforms, ensuring that our push notifications reach our entire user base seamlessly [2]. This broad compatibility is essential for our diverse user community and aligns perfectly with our goal of providing consistent and effective communication across various devices and platforms. In conclusion, OneSignal's specialized focus, advanced personalization features, robust analytics, and platform compatibility make it the superior choice for our push notification needs, enabling us to deliver a superior user experience and drive engagement effectively.
 
-***
+---
 
 ## Resources
 
 [1] L. Munroe. “The Ultimate Guide To Push Notifications For Developers.” Smashing Magazine. Accessed: Sept 28th, 2023. [Online]. Available: https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/
 
-[2] One Signal Editors. “Push Notifications: The Ultimate Guide.” One Signal. Accessed: Sept 28th, 2023. [Online]. Available: https://onesignal.com/what-are-push-notifications 
+[2] One Signal Editors. “Push Notifications: The Ultimate Guide.” One Signal. Accessed: Sept 28th, 2023. [Online]. Available: https://onesignal.com/what-are-push-notifications

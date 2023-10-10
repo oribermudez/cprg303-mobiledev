@@ -27,9 +27,9 @@ The team must carefully choose a geolocation service provider (e.g., Google Maps
 
 ##### Rationale 💡
 
-In selecting the geolocation service for our ride booking and tracking platform, the team carefully evaluated two prominent options: Google Maps and Mapbox. After a thorough consideration of factors such as accuracy, coverage, and overall cost, the decision was made to opt for Google Maps. Google Maps was chosen due to its established brand reputation, extensive experience, and longstanding presence in the market. Its well-established track record translated to a quicker implementation process, providing a valuable advantage for our project [1].
+In selecting the geolocation service for our ride booking and tracking platform, the team carefully evaluated two prominent options: Google Maps and Mapbox. After a thorough consideration of factors such as accuracy, coverage, and overall cost, the decision was made to opt for Google Maps. While Mapbox offers powerful mapping and geolocation capabilities, Google Maps was chosen due to its established brand reputation, extensive experience, and longstanding presence in the market. Its well-established track record translated to a quicker implementation process, providing a valuable advantage for our project [1].
 
-One of the critical features that distinguished Google Maps was its ability to offer real-time traffic updates, a vital aspect for our product that significantly enhances the user experience [1]. Additionally, Google Maps provided us with comprehensive documentation and robust customer support, ensuring a smooth development process and reliable assistance throughout the project [1]. These factors collectively made Google Maps the optimal choice for our geolocation service, aligning with our project's objectives and requirements.
+Additionally, Google Maps' ability to provide real-time traffic updates was a critical feature that Mapbox did not offer, which is a vital aspect for our product that significantly enhances the user experience [1]. Additionally, Google Maps provided us with comprehensive documentation and robust customer support, ensuring a smooth development process and reliable assistance throughout the project [1]. These factors collectively made Google Maps the optimal choice for our geolocation service, aligning with our project's objectives and requirements.
 
 ---
 
