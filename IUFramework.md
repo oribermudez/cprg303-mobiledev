@@ -29,6 +29,8 @@ The core issue revolves around identifying a UI framework that can efficiently c
 
 After careful evaluation, we have chosen React Native as the UI framework for our cross-platform transportation app. React Native's extensive developer community, coupled with its "write once, run anywhere" approach [1], aligns perfectly with our need for development efficiency and a consistent user experience across iOS and Android platforms. Its support for real-time updates and robust performance optimizations further solidify its suitability for our project's requirements. React Native's proven track record in the industry and extensive library of third-party plugins and libraries [1] will provide solutions to common challenges, ensuring a streamlined and efficient development process while delivering a high-quality user interface and experience.
 
+Additionally, we considered Flutter as an option for our UI framework. Flutter is known for its beautiful and highly customizable user interfaces, and it has gained popularity in the developer community. However, we ultimately decided against it because of its relatively smaller developer ecosystem compared to React Native [1]. We believe that React Native's larger community will provide us with a broader pool of resources, including libraries, plugins, and community support, which will be invaluable as we develop and maintain our transportation app. While Flutter offers an appealing design-oriented approach, React Native's ecosystem aligns better with our project's overall goals and requirements, making it the preferred choice for our UI framework.
+
 ---
 
 ## Resources
