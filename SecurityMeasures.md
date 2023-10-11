@@ -23,9 +23,6 @@ Striking the right balance between security and usability remains a persistent d
 - Password complexity rules
 - Multi-factor authentication
 - VPN
-- Session Management
-- Data Validation and Sanitization
-- Error Handling
 - Incident Response Plan
 
 ##### Decision ⭐
