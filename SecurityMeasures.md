@@ -34,7 +34,7 @@ Striking the right balance between security and usability remains a persistent d
 
 ##### Rationale 💡
 
-In our deliberation on security measures for our transportation app, we meticulously evaluated various options, including data encryption, password complexity rules, multi-factor authentication (MFA), VPN, session management, data validation and sanitization, error handling, and an incident response plan.Among the options considered for the decision record, Data Encryption, Multi-Factor Authentication (MFA), and Incident Response Plan stand out as the most crucial choices for our organization's security strategy.
+In our deliberation on security measures for our transportation app, we meticulously evaluated various options, including data encryption, password complexity rules, multi-factor authentication (MFA), VPN, session management, data validation and sanitization, error handling, and an incident response plan. Among the options considered for the decision record, Data Encryption, Multi-Factor Authentication, and Incident Response Plan stand out as the most crucial choices for our organization's security strategy.
 
 Data Encryption is important because it addresses the core concern of safeguarding sensitive user information and financial transactions. By encrypting data at rest and in transit, we ensure that even if unauthorized access occurs, the data remains unintelligible and protected [1]. This not only aligns with industry standards and best practices but also enhances our reputation and trustworthiness in the eyes of our users and regulatory bodies.
 
